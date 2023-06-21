@@ -1,1 +1,1 @@
-# Personal-website
+# Personal-website this website is about me and my projects as a website dev
